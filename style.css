@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    background-image: url("https://d32ogoqmya1dw8.cloudfront.net/images/eslabs/weather/sky_clouds_456.jpg");
+    background-image: url("https://d32ogoqmya1dw8.cloudfront.net/images/eslabs/weather/sky_clouds_456.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -124,8 +124,8 @@ input:checked + .slider::before{
 
     body{
         font-size: 20px;
-        padding: 5%;
-        width: 100%;
+        padding-left: 15%;
+        width: 80%;
         height: 100%;
     }
     #name {

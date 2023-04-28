@@ -12,7 +12,7 @@ outPut.innerHTML = "Results appear here!";
 
 // add event to the search button
 searchBtn.addEventListener('click', search);
-toggle.addEventListener('click', search);
+//toggle.addEventListener('click', search);
 
 
 //loading gif
